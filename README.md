@@ -1,0 +1,2 @@
+# Customer-Analytics-Preparing-Data-for-Modeling-Python-
+This project focuses on cleaning and optimizing a large customer dataset from a fictional online data science training provider for a DataCamp project. The dataset, customer_train.csv, contains anonymized student information and their job-seeking status during training. The goal is to efficiently store the dataset for faster model predictions.
