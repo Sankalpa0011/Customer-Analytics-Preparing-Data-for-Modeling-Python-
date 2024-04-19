@@ -1,5 +1,7 @@
 # Efficient Data Storage for Faster Model Predictions
 
+![Two data scientists working on a dashboard.](hr-image-small.png)
+
 ## Project Overview
 This project focuses on cleaning and optimizing a large customer dataset from a fictional online data science training provider Radar DataCamp. The dataset, `customer_train.csv`, contains anonymized student information and their job-seeking status during training. The goal is to efficiently store the dataset for faster model predictions.
 
