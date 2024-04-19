@@ -1,0 +1,536 @@
+student_id,city,city_development_index,gender,relevant_experience,enrolled_university,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours,job_change
+699,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,123,0
+25987,city_103,0.92,Other,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,4,52,1
+22718,city_157,0.769,,Has relevant experience,no_enrollment,Graduate,No Major,>10,Large,,>4,47,0
+7280,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,6,0
+32092,city_103,0.92,Female,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,55,0
+26099,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,60,0
+33050,city_165,0.903,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,12,0
+16537,city_136,0.897,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,,>4,134,0
+31401,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,116,0
+24701,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,16,0
+10102,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,never,107,0
+32699,city_103,0.92,,Has relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,1,80,0
+20743,city_50,0.8959999999999999,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,23,1
+20797,city_16,0.91,Male,Has relevant experience,no_enrollment,Phd,STEM,>10,Large,Pvt Ltd,1,58,0
+4978,city_114,0.926,Male,Has relevant experience,Part time course,Masters,STEM,>10,Large,Pvt Ltd,2,16,0
+3920,city_106,0.698,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,39,0
+21878,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,Other,>10,Large,Pvt Ltd,>4,56,0
+13597,city_36,0.893,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,107,0
+1131,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,34,0
+24870,city_21,0.624,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,22,0
+3708,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,290,0
+26674,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,6,0
+32958,city_160,0.92,Female,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,7,0
+27419,city_21,0.624,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,never,17,0
+10724,city_21,0.624,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,40,0
+10933,city_21,0.624,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,75,0
+9052,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,85,0
+28589,city_103,0.92,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,16,0
+9930,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,121,0
+15213,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,94,1
+32605,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,155,0
+19737,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,33,0
+3436,city_67,0.855,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,12,0
+10364,city_114,0.926,,Has relevant experience,no_enrollment,High School,,>10,Large,Other,>4,107,0
+31529,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,50,0
+13824,city_16,0.91,Male,Has relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,>4,22,0
+12133,city_160,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,18,0
+33380,city_83,0.923,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,168,0
+31612,city_73,0.754,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,14,0
+15041,city_103,0.92,Other,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,>4,13,0
+4880,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,50,0
+9264,city_83,0.923,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,17,0
+29164,city_103,0.92,Male,Has relevant experience,Part time course,Masters,Business Degree,>10,Large,Public Sector,3,60,0
+24567,city_16,0.91,Male,No relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,20,1
+5555,city_103,0.92,Other,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,1,14,0
+22355,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,17,0
+17076,city_103,0.92,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,37,0
+19973,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,48,0
+29675,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,138,0
+25641,city_21,0.624,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,4,154,0
+31239,city_114,0.926,,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,>4,41,0
+4179,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,Arts,>10,Large,Pvt Ltd,4,59,0
+13328,city_21,0.624,Male,Has relevant experience,,Graduate,STEM,>10,Large,Pvt Ltd,1,78,1
+5952,city_21,0.624,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,54,1
+25820,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,Humanities,>10,Large,Pvt Ltd,1,145,1
+29814,city_103,0.92,Male,No relevant experience,no_enrollment,Masters,Other,>10,Large,Pvt Ltd,>4,43,0
+16762,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,7,0
+31322,city_75,0.939,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,332,0
+9376,city_28,0.939,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,never,109,0
+1562,city_21,0.624,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,23,1
+28097,city_103,0.92,Female,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,320,0
+5537,city_83,0.923,Other,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,30,0
+2290,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,5,0
+31623,city_23,0.899,Male,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,2,69,0
+13885,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,22,0
+6318,city_67,0.855,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,15,0
+16891,city_23,0.899,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,3,9,0
+22470,city_136,0.897,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,126,0
+31082,city_114,0.926,Male,No relevant experience,Full time course,Masters,STEM,>10,Large,Public Sector,4,90,1
+11306,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,3,1
+33090,city_71,0.884,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,,1,77,0
+10826,city_28,0.939,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Public Sector,>4,83,0
+21298,city_103,0.92,Male,No relevant experience,Full time course,Masters,STEM,>10,Large,Public Sector,2,52,1
+14163,city_103,0.92,,Has relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,>4,45,0
+27941,city_103,0.92,,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,36,0
+27560,city_123,0.738,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,53,0
+12877,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,88,0
+21915,city_16,0.91,,Has relevant experience,no_enrollment,Phd,STEM,>10,Large,Pvt Ltd,>4,23,0
+17757,city_21,0.624,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,,1,16,1
+3653,city_16,0.91,Female,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,52,0
+24182,city_89,0.925,Female,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,never,24,0
+31755,city_16,0.91,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,20,0
+29415,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,8,0
+27668,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,51,0
+32220,city_83,0.923,Male,Has relevant experience,no_enrollment,Masters,Other,>10,Large,,1,44,0
+24239,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,124,0
+17025,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,3,0
+27956,city_16,0.91,Male,Has relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,1,12,0
+26884,city_1,0.847,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,,3,35,0
+7166,city_103,0.92,,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,32,0
+32926,city_104,0.924,Female,No relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,4,81,0
+9631,city_114,0.926,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,never,62,1
+10666,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,No Major,>10,Large,Pvt Ltd,never,18,0
+8898,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,31,0
+32158,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,81,0
+9293,city_165,0.903,,Has relevant experience,Full time course,Masters,STEM,>10,Large,Pvt Ltd,1,224,0
+10018,city_103,0.92,Female,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,44,0
+14087,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,204,0
+3572,city_41,0.8270000000000001,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,never,10,0
+3298,city_160,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,184,0
+5721,city_61,0.913,,Has relevant experience,no_enrollment,Graduate,No Major,>10,Large,Public Sector,1,35,0
+13063,city_114,0.926,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,23,0
+6163,city_104,0.924,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,NGO,1,37,0
+29932,city_103,0.92,Female,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,NGO,3,304,0
+10382,city_159,0.843,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,1,50,0
+9691,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,94,0
+2440,city_116,0.743,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,32,0
+23094,city_53,0.74,Male,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,>4,32,0
+315,city_103,0.92,Male,No relevant experience,no_enrollment,Masters,STEM,>10,Large,NGO,1,276,0
+10402,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,134,1
+9538,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,320,0
+26424,city_100,0.887,Male,No relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,23,1
+16569,city_28,0.939,Male,No relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,1,42,0
+15866,city_50,0.8959999999999999,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,96,0
+15245,city_103,0.92,,Has relevant experience,no_enrollment,Phd,STEM,>10,Large,Pvt Ltd,1,22,0
+28273,city_114,0.926,Male,Has relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,>4,25,0
+25083,city_136,0.897,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,96,0
+503,city_67,0.855,Male,Has relevant experience,Part time course,High School,,>10,Large,Pvt Ltd,4,53,0
+16019,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,10,1
+1187,city_67,0.855,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,10,0
+1282,city_103,0.92,Male,No relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,>4,21,0
+7870,city_104,0.924,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,19,0
+3820,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,190,0
+9363,city_102,0.804,Male,Has relevant experience,no_enrollment,Masters,Other,>10,Large,Public Sector,1,166,0
+2154,city_50,0.8959999999999999,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,78,0
+15365,city_21,0.624,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,143,0
+3082,city_83,0.923,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,37,0
+1815,city_27,0.848,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,17,1
+26667,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,17,1
+32407,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,242,0
+9720,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,96,0
+1160,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,No Major,>10,Large,Pvt Ltd,>4,45,0
+23158,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,Arts,>10,Large,,2,94,0
+4860,city_57,0.866,Male,Has relevant experience,no_enrollment,Phd,STEM,>10,Large,Pvt Ltd,>4,61,0
+10531,city_71,0.884,,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,1,184,0
+5215,city_115,0.789,Male,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,1,130,0
+25798,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,12,0
+26326,city_103,0.92,Female,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Other,>4,65,1
+16078,city_160,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Other,>4,45,0
+30217,city_16,0.91,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,6,0
+2264,city_76,0.698,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,108,0
+16686,city_16,0.91,,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,never,9,0
+28982,city_75,0.939,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,28,0
+14188,city_7,0.647,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,110,0
+2121,city_36,0.893,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,42,0
+26851,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,36,0
+28154,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,>4,17,0
+4149,city_136,0.897,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,34,0
+23256,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,64,0
+17811,city_64,0.6659999999999999,Male,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,3,258,1
+17798,city_23,0.899,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,1,82,0
+19588,city_21,0.624,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,107,1
+14872,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,10,0
+22851,city_103,0.92,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,56,0
+17054,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,40,0
+1903,city_103,0.92,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,158,0
+1823,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,57,1
+29320,city_16,0.91,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,147,0
+21086,city_103,0.92,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Public Sector,3,55,0
+27080,city_83,0.923,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,104,0
+10492,city_71,0.884,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,25,0
+19875,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,88,1
+11905,city_114,0.926,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,40,0
+11284,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,19,0
+32874,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,86,0
+2051,city_21,0.624,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,,41,1
+2874,city_41,0.8270000000000001,,Has relevant experience,Part time course,Masters,,>10,Large,Pvt Ltd,>4,49,1
+17003,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,78,0
+1958,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,114,1
+2920,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,153,0
+27020,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,Arts,>10,Large,Pvt Ltd,>4,43,0
+17273,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,18,0
+2414,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,never,45,1
+13133,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,90,0
+28527,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,46,0
+31091,city_71,0.884,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,101,0
+84,city_103,0.92,Other,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,92,0
+8716,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,77,0
+1181,city_75,0.939,,No relevant experience,Full time course,Masters,STEM,>10,Large,Pvt Ltd,4,12,0
+2,city_103,0.92,Male,No relevant experience,no_enrollment,Phd,STEM,>10,Large,NGO,3,128,1
+5695,city_16,0.91,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,152,0
+25956,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,Business Degree,>10,Large,Pvt Ltd,2,91,0
+28658,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,never,83,0
+26205,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,Humanities,>10,Large,Pvt Ltd,2,72,0
+14401,city_123,0.738,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,37,0
+555,city_160,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,32,0
+26272,city_75,0.939,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,33,0
+30998,city_103,0.92,,No relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,2,55,0
+32204,city_28,0.939,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,32,0
+18508,city_28,0.939,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,7,1
+16930,city_114,0.926,Male,Has relevant experience,,Masters,STEM,>10,Large,Pvt Ltd,1,294,0
+32461,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,135,0
+27566,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,14,0
+2997,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,4,74,0
+19728,city_114,0.926,Male,No relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,4,52,0
+6756,city_136,0.897,Male,No relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,156,0
+26341,city_160,0.92,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,,1,24,0
+15733,city_160,0.92,Female,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,14,0
+2351,city_104,0.924,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,22,0
+11717,city_114,0.926,Male,No relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,44,0
+14994,city_136,0.897,,Has relevant experience,no_enrollment,Masters,Other,>10,Large,Pvt Ltd,1,70,0
+4501,city_67,0.855,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,42,0
+21067,city_160,0.92,Male,No relevant experience,Full time course,Masters,Other,>10,Large,Public Sector,1,66,0
+11030,city_83,0.923,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,4,200,1
+10848,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,Other,>10,Large,Pvt Ltd,>4,53,0
+17203,city_65,0.802,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,63,0
+10188,city_16,0.91,Male,No relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,18,0
+11680,city_160,0.92,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,38,0
+16872,city_103,0.92,Female,No relevant experience,no_enrollment,Masters,STEM,>10,Large,NGO,>4,11,0
+29351,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,36,0
+20780,city_16,0.91,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,34,0
+1482,city_75,0.939,Male,No relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,52,0
+29060,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,163,0
+27273,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,104,0
+16235,city_75,0.939,Male,No relevant experience,Part time course,Graduate,STEM,>10,Large,Public Sector,1,26,0
+19414,city_97,0.925,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,17,0
+13376,city_145,0.555,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,57,1
+23898,city_136,0.897,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,128,0
+18729,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,45,0
+9946,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,112,0
+5054,city_16,0.91,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,240,0
+17624,city_173,0.878,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,72,0
+26738,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,172,0
+1649,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,91,1
+30384,city_23,0.899,,No relevant experience,Full time course,High School,,>10,Large,Pvt Ltd,2,99,1
+32782,city_21,0.624,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Other,1,26,1
+14877,city_23,0.899,Female,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,50,0
+3178,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,78,0
+9589,city_116,0.743,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,19,0
+10023,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,6,0
+12602,city_136,0.897,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,68,0
+32621,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,44,0
+1872,city_75,0.939,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,46,0
+15301,city_16,0.91,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,192,0
+11920,city_103,0.92,Female,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,1,24,0
+24457,city_16,0.91,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,2,15,0
+21556,city_21,0.624,Female,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,51,1
+22647,city_104,0.924,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,26,0
+191,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,48,0
+6205,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,8,0
+27198,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,112,0
+32469,city_103,0.92,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,30,0
+5327,city_16,0.91,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,17,0
+9661,city_21,0.624,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,51,0
+21109,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,152,0
+245,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,18,0
+11461,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,26,0
+6266,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,152,0
+14450,city_21,0.624,,Has relevant experience,Full time course,Masters,STEM,>10,Large,,2,96,1
+20127,city_103,0.92,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,NGO,>4,28,0
+73,city_46,0.762,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,53,0
+30307,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,31,0
+26412,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,76,0
+1008,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,1,7,0
+28790,city_16,0.91,Male,Has relevant experience,no_enrollment,Masters,Humanities,>10,Large,Pvt Ltd,1,158,0
+8604,city_103,0.92,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,>4,43,0
+1432,city_103,0.92,Male,Has relevant experience,no_enrollment,Phd,STEM,>10,Large,Pvt Ltd,1,54,0
+11341,city_173,0.878,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,28,0
+6210,city_16,0.91,Male,Has relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,>4,42,0
+5957,city_23,0.899,Male,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,2,6,0
+19600,city_159,0.843,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,7,0
+25441,city_103,0.92,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,>4,90,0
+13212,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,12,0
+17227,city_80,0.847,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,never,9,0
+4351,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,37,0
+28923,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,48,0
+7843,city_75,0.939,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,54,1
+28704,city_136,0.897,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,never,73,0
+28196,city_114,0.926,Male,No relevant experience,Full time course,Masters,STEM,>10,Large,Pvt Ltd,1,51,0
+32011,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,84,0
+11455,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,53,1
+1766,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,294,0
+10972,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,57,0
+9452,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,28,0
+3946,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,2,0
+18380,city_21,0.624,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,28,0
+33220,city_73,0.754,Male,Has relevant experience,Part time course,Masters,STEM,>10,Large,Public Sector,2,288,0
+28402,city_16,0.91,Other,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,53,0
+19254,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,22,0
+20937,city_104,0.924,Male,No relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,53,0
+12964,city_21,0.624,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,134,1
+19675,city_21,0.624,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,17,1
+22252,city_104,0.924,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,never,74,0
+15643,city_16,0.91,Male,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,4,61,0
+2265,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,5,0
+16693,city_103,0.92,,No relevant experience,no_enrollment,Graduate,Arts,>10,Large,Pvt Ltd,>4,33,0
+10534,city_67,0.855,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,316,0
+22067,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,107,0
+20292,city_103,0.92,,No relevant experience,no_enrollment,Masters,Arts,>10,Large,Pvt Ltd,2,64,0
+11969,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,40,0
+18927,city_160,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,47,0
+17159,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,11,0
+29373,city_103,0.92,Male,No relevant experience,Part time course,Graduate,STEM,>10,Large,NGO,>4,65,0
+3566,city_23,0.899,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,27,0
+12648,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,1,18,0
+20582,city_136,0.897,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,26,0
+12749,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,98,0
+25261,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,112,0
+3099,city_23,0.899,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,14,0
+14973,city_83,0.923,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,35,0
+24962,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,128,0
+2241,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,never,56,0
+19869,city_67,0.855,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,63,0
+981,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,54,0
+26959,city_67,0.855,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,266,0
+23180,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,224,0
+11429,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,29,0
+23914,city_173,0.878,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,25,0
+17926,city_103,0.92,Female,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,168,0
+33214,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,Other,>10,Large,Pvt Ltd,1,34,0
+16269,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,15,0
+14910,city_114,0.926,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,>4,98,0
+27899,city_16,0.91,Male,No relevant experience,no_enrollment,Masters,Humanities,>10,Large,Pvt Ltd,4,18,0
+3633,city_103,0.92,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,2,174,0
+22884,city_61,0.913,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,64,0
+26101,city_103,0.92,Male,Has relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,2,25,0
+26923,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,51,1
+11868,city_173,0.878,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,12,0
+27406,city_103,0.92,Female,No relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,50,0
+26752,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,17,0
+19432,city_21,0.624,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,21,1
+6290,city_73,0.754,,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,>4,23,0
+33055,city_165,0.903,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,40,1
+15903,city_103,0.92,Female,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,61,0
+31294,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,9,0
+4845,city_21,0.624,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Public Sector,1,124,1
+4852,city_21,0.624,,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,>4,2,1
+410,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,80,0
+4970,city_67,0.855,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,21,0
+19205,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,6,0
+26758,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,21,1
+8018,city_24,0.698,Male,No relevant experience,Full time course,Graduate,STEM,>10,Large,Public Sector,2,67,1
+10982,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,70,0
+23961,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,46,0
+28100,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,Humanities,>10,Large,Pvt Ltd,2,6,0
+17553,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,102,0
+19688,city_100,0.887,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,2,34,0
+26929,city_138,0.836,Male,Has relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,2,146,0
+23146,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,45,0
+8414,city_160,0.92,Female,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,24,0
+8328,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,9,1
+26988,city_75,0.939,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,>4,57,1
+22736,city_23,0.899,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,13,0
+31910,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,Humanities,>10,Large,Pvt Ltd,>4,20,0
+30151,city_123,0.738,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,94,0
+2672,city_65,0.802,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,62,0
+24886,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,102,1
+827,city_97,0.925,Male,No relevant experience,no_enrollment,Phd,STEM,>10,Large,Public Sector,>4,128,0
+30070,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,44,0
+7684,city_21,0.624,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,25,1
+5339,city_97,0.925,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,108,1
+19810,city_114,0.926,Male,Has relevant experience,Part time course,Masters,STEM,>10,Large,Pvt Ltd,2,42,0
+31644,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,42,0
+15011,city_103,0.92,Female,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,>4,10,0
+8582,city_160,0.92,,No relevant experience,no_enrollment,,,>10,Large,Pvt Ltd,>4,12,0
+25660,city_21,0.624,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,10,0
+11039,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,56,0
+20254,city_103,0.92,Female,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,3,0
+17297,city_150,0.698,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,>4,27,0
+1927,city_103,0.92,Male,Has relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,3,14,0
+3731,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,No Major,>10,Large,Pvt Ltd,4,100,0
+14383,city_89,0.925,,Has relevant experience,no_enrollment,Graduate,Business Degree,>10,Large,Pvt Ltd,,26,0
+6722,city_104,0.924,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,48,0
+25636,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,40,0
+4416,city_24,0.698,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,83,0
+14682,city_136,0.897,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,16,0
+2141,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,14,1
+21847,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,7,0
+1861,city_160,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,>4,8,0
+6760,city_136,0.897,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,7,0
+28595,city_67,0.855,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,36,0
+461,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,51,0
+10661,city_10,0.895,Male,Has relevant experience,no_enrollment,Phd,STEM,>10,Large,Pvt Ltd,2,6,1
+1309,city_160,0.92,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,30,0
+16558,city_104,0.924,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,43,0
+31659,city_67,0.855,Male,Has relevant experience,Full time course,High School,,>10,Large,Pvt Ltd,>4,14,0
+14211,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,49,0
+12585,city_21,0.624,Male,No relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,52,1
+9861,city_160,0.92,Male,Has relevant experience,no_enrollment,Graduate,Other,>10,Large,Public Sector,>4,94,0
+32010,city_103,0.92,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Pvt Ltd,4,36,1
+25701,city_114,0.926,Male,Has relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,1,39,0
+31380,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,17,0
+8075,city_103,0.92,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,,90,0
+10288,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,,1,111,1
+9629,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,4,166,1
+12721,city_65,0.802,Female,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,25,0
+16564,city_16,0.91,Other,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,17,0
+29701,city_45,0.89,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,38,0
+4100,city_28,0.939,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,58,0
+28127,city_21,0.624,Female,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,5,1
+27937,city_103,0.92,Other,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,NGO,>4,6,0
+30819,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,8,0
+6351,city_103,0.92,Male,Has relevant experience,no_enrollment,Phd,STEM,>10,Large,Pvt Ltd,1,23,0
+28941,city_103,0.92,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,19,0
+4372,city_103,0.92,,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,1,37,1
+16425,city_67,0.855,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,,4,16,0
+8655,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,80,1
+10032,city_98,0.949,Male,No relevant experience,no_enrollment,Masters,Business Degree,>10,Large,Pvt Ltd,>4,23,1
+25523,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,56,1
+27929,city_103,0.92,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,16,1
+31793,city_103,0.92,Male,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,1,11,0
+13399,city_21,0.624,Male,Has relevant experience,no_enrollment,Masters,Business Degree,>10,Large,Pvt Ltd,>4,174,1
+13641,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,Humanities,>10,Large,Public Sector,1,140,0
+27401,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,30,0
+23310,city_21,0.624,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,90,1
+480,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,34,0
+31512,city_114,0.926,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,23,0
+17312,city_16,0.91,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,44,0
+1908,city_21,0.624,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,184,1
+24986,city_138,0.836,Male,Has relevant experience,Part time course,Masters,STEM,>10,Large,Pvt Ltd,1,19,0
+883,city_103,0.92,Male,Has relevant experience,no_enrollment,Phd,STEM,>10,Large,Public Sector,>4,12,0
+13844,city_114,0.926,,No relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,>4,156,0
+21755,city_21,0.624,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,63,0
+12318,city_103,0.92,Male,No relevant experience,Full time course,Graduate,STEM,>10,Large,Public Sector,>4,128,0
+17521,city_103,0.92,Male,No relevant experience,no_enrollment,Masters,Business Degree,>10,Large,Pvt Ltd,>4,12,0
+32711,city_46,0.762,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,11,1
+16550,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,64,0
+31148,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,86,0
+8863,city_103,0.92,Female,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,7,0
+24371,city_103,0.92,Female,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,86,0
+20162,city_160,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,40,0
+27602,city_21,0.624,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,34,0
+19760,city_93,0.865,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,14,0
+4438,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,83,0
+23779,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,32,0
+17647,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,never,6,0
+16993,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,42,0
+28093,city_103,0.92,Female,No relevant experience,Full time course,Masters,STEM,>10,Large,Public Sector,2,155,0
+16706,city_103,0.92,,No relevant experience,no_enrollment,Phd,STEM,>10,Large,Pvt Ltd,2,148,0
+29576,city_160,0.92,Male,No relevant experience,Part time course,Graduate,STEM,>10,Large,Public Sector,>4,50,0
+14326,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,22,0
+21248,city_21,0.624,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,15,1
+19109,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,48,0
+32983,city_160,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,10,0
+2564,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,12,0
+22401,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,148,1
+13052,city_103,0.92,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,192,1
+26588,city_114,0.926,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,218,1
+28464,city_28,0.939,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,34,0
+20255,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,,4,84,0
+14363,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,70,0
+31897,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,16,0
+2698,city_36,0.893,Male,No relevant experience,,Graduate,No Major,>10,Large,Public Sector,3,68,0
+32306,city_21,0.624,Female,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,14,1
+2147,city_21,0.624,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,21,0
+28650,city_71,0.884,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,16,0
+14531,city_136,0.897,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,100,0
+25234,city_67,0.855,,Has relevant experience,Full time course,Masters,STEM,>10,Large,Pvt Ltd,4,12,1
+25309,city_16,0.91,Other,No relevant experience,no_enrollment,Masters,Humanities,>10,Large,Pvt Ltd,3,51,0
+17447,city_36,0.893,,Has relevant experience,Part time course,Graduate,STEM,>10,Large,,>4,67,0
+32347,city_21,0.624,Male,No relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,62,1
+16027,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,Other,>10,Large,Pvt Ltd,2,80,0
+13801,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,100,0
+2833,city_103,0.92,Male,Has relevant experience,Full time course,Masters,STEM,>10,Large,Pvt Ltd,2,34,0
+28483,city_53,0.74,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,63,1
+1116,city_103,0.92,Female,Has relevant experience,no_enrollment,Masters,Humanities,>10,Large,Pvt Ltd,>4,56,0
+23322,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,31,1
+18584,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,7,1
+11028,city_150,0.698,,Has relevant experience,Full time course,High School,,>10,Large,Public Sector,>4,15,1
+23940,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,48,0
+28243,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,46,1
+26174,city_57,0.866,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,never,17,0
+1473,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,29,0
+32386,city_103,0.92,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,50,0
+22979,city_138,0.836,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,never,13,1
+19112,city_103,0.92,Female,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,NGO,>4,51,0
+17136,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,28,0
+24009,city_21,0.624,,No relevant experience,Full time course,Masters,STEM,>10,Large,Pvt Ltd,1,27,1
+21299,city_103,0.92,Male,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,2,11,0
+14214,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,12,0
+988,city_16,0.91,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,78,0
+27103,city_16,0.91,Male,Has relevant experience,no_enrollment,Graduate,Arts,>10,Large,Pvt Ltd,4,59,0
+8109,city_114,0.926,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Public Sector,1,114,0
+15609,city_65,0.802,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,34,0
+1134,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,23,0
+6528,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,102,0
+17715,city_103,0.92,Female,Has relevant experience,Part time course,Masters,STEM,>10,Large,Pvt Ltd,1,94,0
+7588,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,109,0
+22942,city_103,0.92,Male,Has relevant experience,Full time course,Masters,STEM,>10,Large,Pvt Ltd,>4,84,0
+14647,city_21,0.624,,Has relevant experience,Full time course,Masters,STEM,>10,Large,Pvt Ltd,3,91,1
+7147,city_103,0.92,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,,1,96,0
+7151,city_23,0.899,Male,Has relevant experience,Part time course,Graduate,STEM,>10,Large,Public Sector,2,78,0
+21076,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,78,0
+12164,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,never,85,1
+25898,city_21,0.624,Male,Has relevant experience,Full time course,Masters,STEM,>10,Large,Pvt Ltd,1,129,1
+12230,city_103,0.92,Male,No relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,>4,43,1
+1559,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,22,0
+3219,city_136,0.897,Male,Has relevant experience,no_enrollment,Phd,STEM,>10,Large,Pvt Ltd,never,59,0
+30665,city_114,0.926,,Has relevant experience,no_enrollment,Masters,Other,>10,Large,Pvt Ltd,1,39,0
+28621,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,Other,>10,Large,Pvt Ltd,1,21,1
+27756,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Public Sector,2,21,0
+6380,city_75,0.939,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,22,0
+27027,city_123,0.738,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,17,1
+18084,city_103,0.92,Male,Has relevant experience,Full time course,Masters,STEM,>10,Large,Pvt Ltd,3,102,1
+29191,city_46,0.762,Male,No relevant experience,no_enrollment,Graduate,Humanities,>10,Large,Public Sector,>4,51,0
+28876,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,94,0
+9943,city_61,0.913,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,28,0
+15206,city_114,0.926,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,5,0
+25724,city_16,0.91,Male,No relevant experience,no_enrollment,Masters,STEM,>10,Large,NGO,>4,88,0
+22482,city_64,0.6659999999999999,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,17,0
+23989,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,18,1
+15791,city_28,0.939,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,64,1
+26765,city_103,0.92,Male,No relevant experience,no_enrollment,High School,,>10,Large,Pvt Ltd,3,104,0
+3273,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,141,0
+27116,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,76,1
+17622,city_21,0.624,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,136,1
+29966,city_114,0.926,Male,Has relevant experience,Part time course,Phd,Humanities,>10,Large,Pvt Ltd,>4,56,0
+30064,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,never,35,1
+16122,city_103,0.92,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,46,0
+21768,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,22,1
+33362,city_173,0.878,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,100,0
+31851,city_160,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,122,1
+5324,city_16,0.91,Female,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,246,0
+32878,city_103,0.92,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,26,0
+21517,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,28,0
+6508,city_115,0.789,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,18,1
+5267,city_105,0.794,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,2,17,0
+10566,city_21,0.624,,No relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,2,156,1
+26717,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,24,0
+21221,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,3,64,0
+21882,city_138,0.836,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,8,0
+30321,city_36,0.893,Male,No relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,1,16,0
+10315,city_75,0.939,Male,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,1,82,0
+23250,city_114,0.926,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,4,35,0
+27407,city_98,0.949,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,45,0
+15954,city_23,0.899,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,282,0
+14811,city_114,0.926,Male,Has relevant experience,Full time course,Graduate,STEM,>10,Large,Pvt Ltd,1,32,1
+2012,city_162,0.767,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,34,1
+10381,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,Humanities,>10,Large,Pvt Ltd,,13,1
+13921,city_103,0.92,,Has relevant experience,no_enrollment,Masters,Business Degree,>10,Large,Pvt Ltd,>4,6,1
+16789,city_28,0.939,,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,3,106,0
+19122,city_103,0.92,,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,>4,150,0
+32397,city_103,0.92,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,16,0
+26317,city_136,0.897,Female,Has relevant experience,no_enrollment,Masters,STEM,>10,Large,Pvt Ltd,2,98,0
+24882,city_21,0.624,Male,Has relevant experience,no_enrollment,Graduate,STEM,>10,Large,Pvt Ltd,1,10,1
